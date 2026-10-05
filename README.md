@@ -19,7 +19,7 @@ My main stack includes:
 - **React / Next.js**
 - **Node.js / Express**
 - **PostgreSQL / MongoDB**
-- **Prisma / Redis**
+- **Redis**
 - **REST APIs**
 - **JWT Authentication / RBAC**
 - **AI & LLM integrations**
@@ -94,7 +94,6 @@ A simple way for recruiters, developers, and potential collaborators to connect 
 - PostgreSQL
 - MongoDB
 - Mongoose
-- Prisma
 - Drizzle ORM
 - Redis
 - Valkey
@@ -316,7 +315,6 @@ Special attention is given to:
 Planned:
 
 - [ ] PostgreSQL database
-- [ ] Prisma schema
 - [ ] Admin authentication
 - [ ] Project management
 - [ ] Skills management
@@ -505,3 +503,4 @@ Potential improvements include:
 This project is primarily a personal portfolio and learning project.
 
 You are welcome to take inspiration from the architecture and ideas, but please don't copy the portfolio content, personal information, or branding.
+
